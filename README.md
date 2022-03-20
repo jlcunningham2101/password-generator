@@ -12,11 +12,11 @@
 - [Deployed-Link](#deployed-link)
 - [Contributor](#contributor)
 
-## Description
+### Description
 
 This application assists users in generating a strong, unique, and secure password based on their input.
 
-## Features:
+### Features:
 
 This application was built with:
 
@@ -24,13 +24,13 @@ This application was built with:
 - CSS
 - Javascript
 
-## User Story
+### User Story
 
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
@@ -48,7 +48,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-## Usage
+### Usage
 
 - Users will click 'Generate Password. Then, they will be prompted with several inquiries to assist with generating a strong password. 'Ok' can be clicked if the user agrees to the password condition and 'Cancel' if they do not want that condition to be incorportated in their password.
 
@@ -60,7 +60,7 @@ The following conditions are prompts that the users will see to assist with pass
 
 Once these conditions are addressed, then a password that meets those conditions will be rendered to the webpage.
 
-## Webpage Screenshots
+### Webpage Screenshots
 
 An example of the password generator homepage:
 ![Screenshot](<assets/images/Screenshot%20(10).png>)
@@ -83,15 +83,15 @@ An example of the special character condition:
 An example of the generated password when all conditions are requested:
 ![Screenshot](<assets/images/Screenshot%20(16).png>)
 
-## GitHub URLs
+### GitHub URLs
 
 https://github.com/jlcunningham2101/password-generator
 
-## Deployed Link
+### Deployed Link
 
 https://jlcunningham2101.github.io/password-generator/
 
-## Contributor
+### Contributor
 
 Name: Jill Cunningham
 Email: jleighcunningham@gmail.com
