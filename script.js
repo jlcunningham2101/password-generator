@@ -3,6 +3,8 @@ var randomLowercase = ["abcdefghijklmnopqrstuvwxyz"];
 var randomUppercase = ["ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
 var randomNumeric = ["0123456789"];
 var randomSpecialCharacters = ["@#$%^&*()+<>/="];
+
+//declare variable for potential password combos
 var randomPassword =
   randomLowercase + randomUppercase + randomNumeric + randomSpecialCharacters;
 

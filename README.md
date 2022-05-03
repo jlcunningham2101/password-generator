@@ -18,7 +18,7 @@ This application assists employees in generating a random password based on crit
 
 ### Features:
 
-This application was built with:
+This application is supported by the following:
 
 - HTML
 - CSS
